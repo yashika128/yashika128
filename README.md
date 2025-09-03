@@ -63,12 +63,6 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
 ### **Web Technologies**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -247,7 +241,7 @@ mindmap
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/yashika128/yashika128/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yashika128/yashika128/main/output/github-contribution-grid-snake.svg)
 
 ⭐️ **From [Yashika Garg](https://github.com/yashika128) with ❤️**
 
