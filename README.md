@@ -3,9 +3,9 @@
 # 👋 Hello World! I'm **Yashika Garg**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Soft+Ware
-+Developer;Technology+Innovator;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Technology+Innovator;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yashika128&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/yashika128)
 [![GitHub followers](https://img.shields.io/github/followers/yashika128?label=Followers&style=for-the-badge&color=blue)](https://github.com/yashika128)
