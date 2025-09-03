@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yashika128/yashika128/main/assets/yashika-garg-banner.png" alt="Yashika Garg Professional Banner" width="100%" />
+</div>
+
 # Hi! I'm **Yashika Garg** 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1,8B5CF6,EC4899&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Healthcare+Tech+Focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1,8B5CF6,EC4899&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Web+Development+Focused" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,9 +23,9 @@ class YashikaGarg:
         self.name = "Yashika Garg"
         self.role = "Aspiring Software Developer"
         self.education = "B.Tech Computer Science"
-        self.focus = ["AI/ML", "Healthcare Tech", "Full Stack Development"]
+        self.focus = ["AI/ML", "Web Development", "Full Stack Development"]
         self.currently_learning = ["React.js", "Next.js", "Data Structures"]
-        self.passion = "Building solutions that make a difference"
+        self.passion = "Creating innovative solutions that solve real-world problems"
     
     def get_contact(self):
         return "yashikagarg638@gmail.com"
@@ -30,9 +34,9 @@ class YashikaGarg:
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🎯 **Current Focus**
-- 🏥 Developing AI solutions for healthcare analytics
+- 🌐 Creating innovative websites and web applications
 - 💻 Mastering modern web development with React & Next.js
-- 📊 Creating predictive models using machine learning
+- 🤖 Developing cutting-edge AI solutions and predictive models
 - 🌱 Strengthening foundation in data structures and algorithms
 
 ---
@@ -72,14 +76,14 @@ class YashikaGarg:
 
 ## 🏆 **Featured Project**
 
-### 🩺 **Diabetes Prediction System**
-A machine learning application that predicts diabetes risk using multiple algorithms and provides early intervention insights.
+### 🤖 **AI/ML Solutions**
+Advanced machine learning applications and predictive models for solving real-world problems.
 
 **Key Features:**
 - ⚡ Multiple ML algorithms (Random Forest, SVM, Logistic Regression, KNN)
-- 🎯 85%+ prediction accuracy with cross-validation
-- 🌐 Interactive Flask web interface
-- 📊 Real-time health risk assessment
+- 🎯 High prediction accuracy with cross-validation
+- 🌐 Interactive Flask web interfaces
+- 📊 Real-time data analysis and insights
 
 **Tech Stack:** `Python` `scikit-learn` `Flask` `HTML/CSS` `Pandas`
 
@@ -100,11 +104,11 @@ A machine learning application that predicts diabetes risk using multiple algori
 
 ## 🌟 **Fun Facts**
 
-- 📊 Love finding patterns in healthcare data
+- 🌐 Love creating beautiful, interactive websites
 - ☕ Best code happens with good coffee at midnight
-- 🎯 Passionate about technology that saves lives  
+- 🎯 Passionate about AI solutions that make a difference
 - 🌱 Always learning something new in tech
-- 🎨 Believe in clean, beautiful code
+- 🎨 Believe in clean, elegant code architecture
 
 ---
 
@@ -116,7 +120,7 @@ A machine learning application that predicts diabetes risk using multiple algori
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashikagarg638@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashika128)
 
-**Always excited to discuss AI and innovative solutions!**
+**Always excited to discuss AI, web development, and innovative solutions!**
 
 </div>
 
