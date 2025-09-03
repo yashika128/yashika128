@@ -221,11 +221,8 @@ mindmap
 
 ### 💬 **Let's discuss:**
 - 🧠 AI/ML projects and research
-- 🩺 Healthcare technology innovations  
 - 💻 Full-stack development best practices
 - 🤖 Open source collaboration opportunities
-- 📊 Data science methodologies
-
 </div>
 
 ---
