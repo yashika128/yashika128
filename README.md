@@ -131,6 +131,7 @@ mindmap
 ---
 
 ## 🌟 **Fun Facts**
+<img align="right" alt="Fun Facts" width="300" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 - 🌐 Love creating beautiful, interactive websites
 - ☕ Best code happens with good coffee at midnight
