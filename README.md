@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yashika128/yashika128/main/assets/yashika-garg-banner.png" alt="Yashika Garg Professional Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/yashika128/yashika128/main/yashika-garg-banner.png" alt="Yashika Garg Professional Banner" width="100%" />
 </div>
 
 # Hi! I'm **Yashika Garg** 👋
