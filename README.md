@@ -134,7 +134,11 @@ Thanks for visiting! Let's build something amazing together! 🚀
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yashika128/yashika128/output/snake.svg" alt="Snake animation" />
+  <<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashika128/yashika128/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashika128/yashika128/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yashika128/yashika128/output/snake.svg">
+</picture>
 </div>
 
 ---
