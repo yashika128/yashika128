@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/yashika128/yashika128/main/yashika-garg-banner.png" alt="Yashika Garg Professional Banner" width="100%" />
 </div>
 
-# Hi! I'm **Yashika Garg** 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1,8B5CF6,EC4899&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Web+Development+Focused" alt="Typing SVG" />
@@ -23,8 +22,8 @@ class YashikaGarg:
         self.name = "Yashika Garg"
         self.role = "Aspiring Software Developer"
         self.education = "B.Tech Computer Science"
-        self.focus = ["AI/ML", "Web Development", "Full Stack Development"]
-        self.currently_learning = ["React.js", "Next.js", "Data Structures"]
+        self.focus = ["Web Development", "Full Stack Development","AI/ML"]
+        self.currently_learning = ["React.js", "Node.js", "Data Structures"]
         self.passion = "Creating innovative solutions that solve real-world problems"
     
     def get_contact(self):
@@ -132,4 +131,8 @@ Advanced machine learning applications and predictive models for solving real-wo
 
 Thanks for visiting! Let's build something amazing together! 🚀
 
+</div>
+🐍 Contribution Snake Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yashika128/yashika128/output/snake.svg" alt="Snake animation" />
 </div>
