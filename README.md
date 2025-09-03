@@ -116,7 +116,7 @@ A machine learning application that predicts diabetes risk using multiple algori
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashikagarg638@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashika128)
 
-**Always excited to discuss AI, healthcare tech, and innovative solutions!**
+**Always excited to discuss AI and innovative solutions!**
 
 </div>
 
