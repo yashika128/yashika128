@@ -84,6 +84,35 @@ Advanced machine learning applications and predictive models for solving real-wo
 - 🌐 Interactive Flask web interfaces
 - 📊 Real-time data analysis and insights
 
+---
+## 🎯 **Current Focus Areas**
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Yashika's
+    Tech Focus))
+    Healthcare AI
+      Predictive Modeling
+      Medical Diagnostics
+      Patient Risk Assessment
+    Machine Learning
+      Deep Learning
+      Computer Vision
+      NLP Applications
+    Web Development
+      Full Stack Apps
+      API Development
+      UI/UX Design
+    Open Source
+      Community Projects
+      Code Contributions
+      Knowledge Sharing
+```
+---
+</div>
+
 **Tech Stack:** `Python` `scikit-learn` `Flask` `HTML/CSS` `Pandas`
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yashika128&repo=AIML&theme=tokyonight)](https://github.com/yashika128/AIML)
