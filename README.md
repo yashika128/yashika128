@@ -131,8 +131,8 @@ Advanced machine learning applications and predictive models for solving real-wo
 
 Thanks for visiting! Let's build something amazing together! 🚀
 
-## 🐍 Contribution Snake Animation
 
+## 🐍 Contribution Snake Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashika128/yashika128/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashika128/yashika128/output/github-contribution-grid-snake.svg">
