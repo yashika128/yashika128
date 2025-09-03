@@ -83,7 +83,7 @@ A machine learning application that predicts diabetes risk using multiple algori
 
 **Tech Stack:** `Python` `scikit-learn` `Flask` `HTML/CSS` `Pandas`
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yashika128&repo=diabetes-prediction&theme=tokyonight)](https://github.com/yashika128/diabetes-prediction)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yashika128&repo=AIML&theme=tokyonight)](https://github.com/yashika128/AIML)
 
 ---
 
